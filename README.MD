@@ -3,6 +3,7 @@
 当需要快速构建一个新的项目是，直接clone，离线可用
 
 #目录结构
+```
 ├─bower_components
 │  ├─angular
 │  ├─angular-bootstrap
@@ -50,4 +51,4 @@
 ├─image
 ├─lib
 └─ngservice
-
+```
