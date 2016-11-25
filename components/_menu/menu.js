@@ -20,7 +20,7 @@ angular.module('menu', [])
 .directive('menu', function() {
     return {
         // restrict: 'E',
-        templateUrl: 'components/menu/menu.html',
+        templateUrl: 'components/_menu/menu.html',
         controller: 'MenuCtrl'
     }
 });

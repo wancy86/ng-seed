@@ -6,7 +6,7 @@ angular.module('myApp')
         scope: {
             alertMessages: "="
         },
-        templateUrl: 'components/alert_msg/alert_msg.html',
+        templateUrl: 'components/_alert_msg/alert_msg.html',
         controller: 'alertMsgCtrl'
     }
 })

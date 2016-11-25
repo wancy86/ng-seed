@@ -22,6 +22,6 @@ angular.module('myApp')
     return {
         restrict: 'AE',
         scope: true,
-        templateUrl: 'components/header/header.html'
+        templateUrl: 'components/_header/header.html'
     }
 });
